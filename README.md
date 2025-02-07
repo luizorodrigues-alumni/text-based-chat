@@ -16,4 +16,3 @@ A simple text-based chat application built with **Spring Boot** to practice the 
 2. Build and Run the project
    ```bash
    mvn spring-boot:run
-  ```
