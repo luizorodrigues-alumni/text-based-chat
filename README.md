@@ -10,7 +10,7 @@ A simple text-based chat application built with **Spring Boot** to practice the 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/text-chat-spring-boot.git
+   git clone https://github.com/luizorodrigues-alumni/text-based-chat.git
    cd text-chat-spring-boot
    ```
 2. Build and Run the project
